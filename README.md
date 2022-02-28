@@ -2,7 +2,10 @@
 This is a super basic launcher that allows you to choose your server before launching the game by simply editing the UserOption.xml file for Lost Ark.
 
 ## Download ##
+This is the launcher executable that you should download
 - [Lost Ark Launcher](https://github.com/Iceniq/LostArkLauncher/releases/download/1.0/LostArkLauncher.exe)
+
+I've also included the PowerShell ISE file for those who would like to customize the launcher
 - [PowerShell ISE file](https://github.com/Iceniq/LostArkLauncher/releases/download/1.0/LaunchLA_GUI.ps1)
 ## How to Use
 - Move the downloaded file to the main Lost Ark folder.
