@@ -1,3 +1,4 @@
+![Lost Ark Launcher](https://kosgames.com/wp-content/uploads/2022/02/capsule_616x353-2022-02-09T132835.974.jpg)
 # Lost Ark Launcher
 This is a super basic launcher that allows you to choose your server before launching the game by simply editing the UserOption.xml file for Lost Ark.
 
